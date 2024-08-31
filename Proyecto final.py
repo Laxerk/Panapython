@@ -1,5 +1,5 @@
 # Tomas Dolado - AL03026542
-# Luis Marcelo - 
+# Luis Marcelo Moreno Camacho - AL03035751
 # ----------------------------------- Introduccion -----------------------------------
 print("Calculadora de costo beneficio para diversos productos dentro de un supermercado/empresa, estableciendo los precios de compra al proveedor y los precios de venta al consumidor, podras ingresar el producto y se calculara la compra/venta por kilogramo.")
 
