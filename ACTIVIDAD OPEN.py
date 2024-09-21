@@ -1,0 +1,5 @@
+abrir = open("notas.txt", "a")
+abrir.write("#Lista de Tareas que hacer#\n")
+abrir.write("Programacion - Ejercicios 'open'")
+abrir.writelines("\nNube - Estudiar")
+abrir.close()
